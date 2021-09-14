@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Spring Boot-ApiNavigationApplication<api-navigation>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"console": "internalConsole",
+			"mainClass": "com.example.apinavigation.ApiNavigationApplication",
+			"projectName": "api-navigation",
+			"args": ""
+		}
+	]
+}
